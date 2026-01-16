@@ -1,0 +1,13 @@
+{
+  "name": "SpotiFLAC",
+  "outputfilename": "spotflac",
+  "author": {
+    "name": "afkarxyz"
+  },
+  "info": {
+    "productName": "SpotiFLAC",
+    "productVersion": "7.0.6",
+    "copyright": "© 2026 afkarxyz",
+    "description": "Command-line tool for downloading Spotify tracks in FLAC quality from Tidal, Qobuz, and Amazon Music"
+  }
+}
